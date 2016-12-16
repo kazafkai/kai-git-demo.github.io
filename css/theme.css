@@ -1,0 +1,20 @@
+.jumbotron {
+    background-color: #eee;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.thumbnail {
+    text-align: center;
+}
+
+.underline {
+    border-bottom: 2px solid #ddd;
+    margin: 30px;
+}
+
+.contain {
+    width: 100%;
+    clear: both;
+    margin: auto;
+}
